@@ -1,0 +1,18 @@
+{
+    "author": "Romain Racamier-Lafon <romain.racamier@gmail.com>",
+    "bugs": "https://github.com/Shuunen/what-now/issues",
+    "description": "Minimalistic task coach",
+    "homepage": "https://github.com/Shuunen/what-now",
+    "keywords": [
+        "minimalist",
+        "task",
+        "coach"
+    ],
+    "license": "GPL-3.0",
+    "name": "@shuunen/what-now",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Shuunen/what-now.git"
+    },
+    "version": "0.0.1"
+}

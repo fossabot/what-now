@@ -1,3 +1,3 @@
-import './cypress-reload'
+// import './cypress-reload'
 
 console.log('hi John')
